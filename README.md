@@ -10,5 +10,5 @@ All code in this repository reflects my individual work and is intended to showc
 > ⚠️ **Academic Integrity Notice**  
 > The work presented in this repository is solely intended for review by potential employers, collaborators, and curious learners.  
 > It is **strictly prohibited** to reuse, submit, or modify this work for any current or future offering of CSCI 5521 or any other course.  
-> Please refer to the [University of Minnesota’s policies on academic integrity](https://communitystandards.umn.edu/academic-integrity) for more information.
+> Please refer to the [University of Minnesota’s policies on academic integrity] for more information.
 
