@@ -6,6 +6,7 @@ This repository contains four programming assignments for **CSCI 5521: Machine L
 All code in this repository reflects my individual work and is intended to showcase my ability to translate machine learning theory into working code. All the assignment are released after their extended due dates. It includes assignment on following topics:  
 1. Multivariate Gaussian classifiers for two classes  
 2. Implementation of PCA and k-means clustering
+3. Multilayer Perceptron
 
 > ⚠️ **Academic Integrity Notice**  
 > The work presented in this repository is solely intended for review by potential employers, collaborators, and curious learners.  
