@@ -7,6 +7,7 @@ All code in this repository reflects my individual work and is intended to showc
 1. Multivariate Gaussian classifiers for two classes  
 2. Implementation of PCA and k-means clustering
 3. Multilayer Perceptron
+4. Decision Tree classifier
 
 > ⚠️ **Academic Integrity Notice**  
 > The work presented in this repository is solely intended for review by potential employers, collaborators, and curious learners.  
